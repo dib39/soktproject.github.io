@@ -203,10 +203,12 @@ main {
     word-wrap: break-word;
     width: 1190px;
     margin-bottom: 50px;
+    hyphens: auto;
 }
 
 .text-block-title span {
     color: #BB8D54;
+    hyphens: auto;
 }
 
 .text-block-main-text {
@@ -215,11 +217,13 @@ main {
     font-weight: 300;
     line-height: 33.94px;
     word-wrap: break-word;
+    hyphens: auto;
 }
 
 .text-block-main-text span{
     color: #98672B;
     font-weight: 400;
+    hyphens: auto;
 }
 
 
