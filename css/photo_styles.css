@@ -213,10 +213,12 @@ main {
     line-height: 56.56px;
     word-wrap: break-word;
     margin-bottom: 70px;
+    hyphens: auto;
 }
 
 .photo-block-title span {
     color: #BB8D54;
+    hyphens: auto;
 }
 
 .photo-block-photos {
