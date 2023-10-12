@@ -228,10 +228,12 @@ main {
     width: 100%;
     line-height: 90.50px;
     margin-bottom: 50px;
+    hyphens: auto;
 }
 
 .main-wrapper-title span {
     color: #0E2441;
+    hyphens: auto;
 }
 
 .main-wrapper-main-text {
