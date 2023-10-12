@@ -211,10 +211,12 @@ main {
     line-height: 56.56px;
     word-wrap: break-word;
     margin-bottom: 50px;
+    hyphens: auto;
 }
 
 .map-block-title span {
     color: #BB8D54;
+    hyphens: auto;
 }
 
 .map-block-text {
@@ -224,11 +226,13 @@ main {
     line-height: 33.94px;
     word-wrap: break-word;
     margin-bottom: 50px;
+    hyphens: auto;
 }
 
 .map-block-text span{
     color: #98672B;
     font-weight: 400;
+    hyphens: auto;
 }
 
 .map{
