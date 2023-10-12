@@ -201,10 +201,12 @@ main {
     word-wrap: break-word;
     width: 1114px;
     margin-bottom: 50px;
+    hyphens: auto;
 }
 
 .main-block-text-block span {
     color: #BB8D54;
+    hyphens: auto;
 }
 
 
