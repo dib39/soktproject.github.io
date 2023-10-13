@@ -1,0 +1,32 @@
+.header-buttons-block button:hover{
+    border-color: #f1a03c80;
+}
+
+.form-block-acept-button .acept-button:hover{
+    background-color: white;
+    border-color: #F1A13C;
+    color: #F1A13C;
+}
+
+.footer-buttons-block button:hover{
+    color: #f1a03ca6;
+}
+
+.header-lang-button-block:hover .header-lang-button-arrow{
+    animation: myArrowAnim 0.7s ease-in-out 0s 1 normal forwards;
+}
+
+@keyframes myArrowAnim {
+    0% {
+        transform: rotate(0);
+    }
+
+    100% {
+        transform: rotate(-90deg);
+    }
+}
+
+body{
+    animation: myAnim 1s ease-in-out 0s 1 normal forwards;
+}
+
