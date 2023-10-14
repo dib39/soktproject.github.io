@@ -6,6 +6,9 @@
 .main-wrapper-buttons-block-button-history:hover{
     background-color: white;
     border-color: #F1A13C;
+}
+
+.main-wrapper-buttons-block-button-history:hover a{
     color: #F1A13C;
 }
 
