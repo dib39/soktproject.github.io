@@ -279,6 +279,10 @@ main {
     border: 1px solid #f1a03c00;
     transition: bacground-color ease-in-out 0.5s;
     transition: border-color ease-in-out 0.5s;
+}
+
+.main-wrapper-buttons-block-button-history a{
+    color: white;
     transition: color ease-in-out 0.5s;
 }
 
