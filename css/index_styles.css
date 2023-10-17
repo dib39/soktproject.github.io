@@ -275,6 +275,7 @@ main {
     word-wrap: break-word;
     background-color: #F1A13C;
     margin-right: 35px;
+    height: 100%;
     cursor: pointer;
     border: 1px solid #f1a03c00;
     transition: bacground-color ease-in-out 0.5s;
